@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Dora_Intro">¡Hola, amigo! I\'m Dora the Explorer! I love going on adventures, solving problems, and helping my friends!</string>
+    <string name="Button_text">Say Hello</string>
+</resources>
